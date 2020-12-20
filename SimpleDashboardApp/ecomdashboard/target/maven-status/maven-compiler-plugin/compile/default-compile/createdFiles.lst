@@ -1,0 +1,11 @@
+net\torrypubrepo\ecomdashboard\Services\BranchReport_ServiceImpl.class
+net\torrypubrepo\ecomdashboard\DataModel\BranchMonthly_TransactionSample.class
+net\torrypubrepo\ecomdashboard\Interfaces\Branch_Service_Interface.class
+net\torrypubrepo\ecomdashboard\DataModel\BranchOffices.class
+net\torrypubrepo\ecomdashboard\Controller\DashBoardController.class
+net\torrypubrepo\ecomdashboard\Repository\BranchReportRepository.class
+net\torrypubrepo\ecomdashboard\EcomDashBoardApplication.class
+net\torrypubrepo\ecomdashboard\Controller\BranchReportController.class
+net\torrypubrepo\ecomdashboard\Repository\BranchTransaction_Repository.class
+net\torrypubrepo\ecomdashboard\Services\Branch_Monthly_Transaction_ServiceImpl.class
+net\torrypubrepo\ecomdashboard\DataModel\BranchMonthlyTransaction.class
